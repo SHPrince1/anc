@@ -1,0 +1,24 @@
+.Abt1{
+text-align: center;
+margin-top: 40px;
+padding-left: auto;
+background-color: brown;
+color: white;
+border: 5px solid black;
+
+
+}
+.Vmg{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    margin-top: 40px;
+    border: 5px solid black;
+
+}
+
+.Abt{
+    border: 5px solid darkblue;
+    margin-top: 10px;
+
+}
